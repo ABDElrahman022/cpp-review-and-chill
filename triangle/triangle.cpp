@@ -76,4 +76,24 @@ void main() {
 		cout << endl;
 	}
 
+	// Hollow pyramids  
+	cout << "Hollow pyramids" << endl;
+	for (int row = 1; row <= h; row++) {
+		int star = (row * 2) - 1;
+		int space = (h - row);
+
+		while (space > 0) {
+			cout << " ";
+			space = space - 1;
+		}
+
+		while (star > 0) {
+			if (row == 1 || row == h || star == 1 || star == (row * 2) - 1)
+				cout << "*";
+			else
+				cout << " ";
+			star = star - 1;
+		}
+		cout << endl;
+	}
 }
