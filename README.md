@@ -26,7 +26,6 @@ It currently includes:
 ---
 
 
----
 
 ## 💡 Why this repo?
 To keep a clean, version-controlled space for trying small ideas in C++ – especially useful during boredom, revision, or deep thinking 🧩.
