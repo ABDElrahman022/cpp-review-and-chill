@@ -3,14 +3,15 @@
 This repository is a collection of small C++ programs and logic snippets I write when:
 
 - Reviewing basic concepts
-- Exploring pattern printing (stars, triangles, pyramids, etc.)
+- Exploring pattern printing 
 - Testing ideas and algorithms
 - Or simply coding while bored
 
 It currently includes:
 
 ✅ Star pattern printing  
-✅ Inverted pyramids  
+✅ Inverted pyramids
+✅ Hollow (outlined) pyramids  
 ✅ Nested loops logic  
 ✅ Multiple versions of the same output using `for` and `while`  
 
