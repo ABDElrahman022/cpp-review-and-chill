@@ -15,12 +15,8 @@ It currently includes:
 ✅ Nested loops logic  
 ✅ Multiple versions of the same output using `for` and `while`  
 ✅ Logic-based mini games (like a simple text-based XO)  
-<<<<<<< HEAD
 ✅ Basic Student Affairs Logic using `struct` and `reference-based functions`  
-✅ Simple Pizza Restaurant (`OOP` vs `Procedural` comparison) 
-=======
-✅ Basic Student Affairs Logic using `struct` and `reference-based functions` 
->>>>>>> aa002cb287580d9a8b67425836602feba2dbefa0
+✅ Simple Pizza Restaurant (OOP vs Procedural comparison) 🍕
 
 > And more to come...
 
